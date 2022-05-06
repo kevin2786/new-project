@@ -23,12 +23,18 @@ public class RubyController : MonoBehaviour
     
     Animator animator;
     Vector2 lookDirection = new Vector2(1,0);
+
+    AudioSource audioSource;
+
+    public AudioClip throwCog;
+    public AudioClip playerHit;
     
     // Start is called before the first frame update
     void Start()
     {
         rigidbody2d = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
         
         currentHealth = maxHealth;
     }
@@ -90,6 +96,7 @@ public class RubyController : MonoBehaviour
         if (amount < 0)
         {
             animator.SetTrigger("Hit");
+            PlaySound(playerHit);
             if (isInvincible)
                 return;
             
@@ -109,6 +116,12 @@ public class RubyController : MonoBehaviour
         projectile.Launch(lookDirection, 300);
 
         animator.SetTrigger("Launch");
+        PlaySound(throwCog);
     }
-}
 
+    public void PlaySound(AudioClip clip)
+    {
+          audioSource.PlayOneShot(clip);
+    }
+
+}
