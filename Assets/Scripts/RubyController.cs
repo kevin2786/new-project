@@ -37,6 +37,7 @@ public class RubyController : MonoBehaviour
         audioSource = GetComponent<AudioSource>();
         
         currentHealth = 3;
+        UIHealthBar.instance.SetValue(currentHealth / (float)maxHealth);
     }
 
     // Update is called once per frame
