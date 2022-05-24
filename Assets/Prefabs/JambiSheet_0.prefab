@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3261699255745823240}
   - component: {fileID: 3261699255745823242}
   - component: {fileID: 3261699255745823243}
-  m_Layer: 0
+  m_Layer: 30
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -147,7 +147,7 @@ GameObject:
   - component: {fileID: 3261699256401032522}
   - component: {fileID: 3261699256401032524}
   - component: {fileID: 3261699256401032525}
-  m_Layer: 0
+  m_Layer: 30
   m_Name: Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -223,7 +223,7 @@ GameObject:
   - component: {fileID: 3261699256582506380}
   - component: {fileID: 3261699256582506381}
   - component: {fileID: 3261699256582506378}
-  m_Layer: 0
+  m_Layer: 30
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -325,7 +325,7 @@ GameObject:
   - component: {fileID: 3261699256725325397}
   - component: {fileID: 3261699256725325398}
   - component: {fileID: 5352372695560495438}
-  m_Layer: 0
+  m_Layer: 30
   m_Name: JambiSheet_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -341,7 +341,7 @@ Transform:
   m_GameObject: {fileID: 3261699256725325394}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2.7353926, y: 4.940007, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: -1.7322228, y: 1.6170324, z: 1}
   m_Children:
   - {fileID: 3261699256582506379}
   m_Father: {fileID: 0}
