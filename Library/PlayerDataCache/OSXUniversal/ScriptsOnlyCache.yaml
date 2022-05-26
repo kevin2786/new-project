@@ -68,8 +68,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
-    - Class: 49
-      Script: {instanceID: 0}
     - Class: 50
       Script: {instanceID: 0}
     - Class: 60
@@ -84,8 +82,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 83
       Script: {instanceID: 0}
-    - Class: 89
-      Script: {instanceID: 0}
     - Class: 91
       Script: {instanceID: 0}
     - Class: 95
@@ -99,47 +95,41 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1474}
     - Class: 114
-      Script: {instanceID: 1868}
+      Script: {instanceID: 1476}
     - Class: 114
-      Script: {instanceID: 1934}
+      Script: {instanceID: 1870}
     - Class: 114
-      Script: {instanceID: 1944}
+      Script: {instanceID: 1936}
     - Class: 114
-      Script: {instanceID: 2048}
+      Script: {instanceID: 1946}
     - Class: 114
-      Script: {instanceID: 2272}
+      Script: {instanceID: 2050}
     - Class: 114
-      Script: {instanceID: 2352}
+      Script: {instanceID: 2354}
     - Class: 114
-      Script: {instanceID: 2668}
+      Script: {instanceID: 2670}
     - Class: 114
-      Script: {instanceID: 2722}
+      Script: {instanceID: 2724}
     - Class: 114
-      Script: {instanceID: 2740}
+      Script: {instanceID: 2742}
     - Class: 114
-      Script: {instanceID: 2782}
+      Script: {instanceID: 2784}
     - Class: 114
-      Script: {instanceID: 2808}
+      Script: {instanceID: 2810}
     - Class: 114
-      Script: {instanceID: 2904}
+      Script: {instanceID: 2906}
     - Class: 114
-      Script: {instanceID: 2952}
+      Script: {instanceID: 2954}
     - Class: 114
-      Script: {instanceID: 2988}
+      Script: {instanceID: 2990}
     - Class: 114
-      Script: {instanceID: 3130}
+      Script: {instanceID: 3132}
     - Class: 114
-      Script: {instanceID: 3388}
+      Script: {instanceID: 3390}
     - Class: 114
-      Script: {instanceID: 4060}
-    - Class: 114
-      Script: {instanceID: 4568}
-    - Class: 114
-      Script: {instanceID: 4922}
+      Script: {instanceID: 4062}
     - Class: 114
       Script: {instanceID: 5202}
-    - Class: 114
-      Script: {instanceID: 5326}
     - Class: 114
       Script: {instanceID: 5476}
     - Class: 115
@@ -195,6 +185,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 82
       Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 91
       Script: {instanceID: 0}
     - Class: 95
@@ -206,41 +198,41 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1474}
     - Class: 114
-      Script: {instanceID: 1868}
+      Script: {instanceID: 1476}
     - Class: 114
-      Script: {instanceID: 2668}
+      Script: {instanceID: 1870}
     - Class: 114
-      Script: {instanceID: 2722}
+      Script: {instanceID: 2670}
     - Class: 114
-      Script: {instanceID: 2740}
+      Script: {instanceID: 2724}
     - Class: 114
-      Script: {instanceID: 2808}
+      Script: {instanceID: 2742}
     - Class: 114
-      Script: {instanceID: 2904}
+      Script: {instanceID: 2810}
     - Class: 114
-      Script: {instanceID: 2952}
+      Script: {instanceID: 2906}
     - Class: 114
-      Script: {instanceID: 2988}
+      Script: {instanceID: 2954}
     - Class: 114
-      Script: {instanceID: 3130}
+      Script: {instanceID: 2990}
     - Class: 114
-      Script: {instanceID: 3388}
+      Script: {instanceID: 3132}
     - Class: 114
-      Script: {instanceID: 4060}
+      Script: {instanceID: 3390}
     - Class: 114
-      Script: {instanceID: 4568}
+      Script: {instanceID: 4062}
     - Class: 114
       Script: {instanceID: 5476}
     - Class: 114
-      Script: {instanceID: 24326}
+      Script: {instanceID: 17516}
     - Class: 114
-      Script: {instanceID: 24360}
+      Script: {instanceID: 24306}
     - Class: 114
-      Script: {instanceID: 24372}
+      Script: {instanceID: 24340}
     - Class: 114
-      Script: {instanceID: 24388}
+      Script: {instanceID: 24352}
     - Class: 114
-      Script: {instanceID: 24412}
+      Script: {instanceID: 24368}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -271,6 +263,103 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 1839735485
       Script: {instanceID: 0}
+    Assets/Scenes/Ruby Challenge.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
+    - Class: 50
+      Script: {instanceID: 0}
+    - Class: 61
+      Script: {instanceID: 0}
+    - Class: 66
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 642}
+    - Class: 114
+      Script: {instanceID: 1474}
+    - Class: 114
+      Script: {instanceID: 1476}
+    - Class: 114
+      Script: {instanceID: 1870}
+    - Class: 114
+      Script: {instanceID: 1936}
+    - Class: 114
+      Script: {instanceID: 1946}
+    - Class: 114
+      Script: {instanceID: 2050}
+    - Class: 114
+      Script: {instanceID: 2274}
+    - Class: 114
+      Script: {instanceID: 2354}
+    - Class: 114
+      Script: {instanceID: 2724}
+    - Class: 114
+      Script: {instanceID: 2784}
+    - Class: 114
+      Script: {instanceID: 2954}
+    - Class: 114
+      Script: {instanceID: 3132}
+    - Class: 114
+      Script: {instanceID: 4922}
+    - Class: 114
+      Script: {instanceID: 5202}
+    - Class: 114
+      Script: {instanceID: 5326}
+    - Class: 114
+      Script: {instanceID: 5476}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 19719996
+      Script: {instanceID: 0}
+    - Class: 156049354
+      Script: {instanceID: 0}
+    - Class: 483693784
+      Script: {instanceID: 0}
+    - Class: 1839735485
+      Script: {instanceID: 0}
     Assets/Scenes/SampleScene.unity:
     - Class: 1
       Script: {instanceID: 0}
@@ -295,6 +384,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
   - hash:
       serializedVersion: 2
       Hash: 5ab533713adae59372fb3e10a585c186
@@ -909,12 +1004,6 @@ ScriptsOnlyBuild:
     className: CinemachineTrackedDolly
   - hash:
       serializedVersion: 2
-      Hash: aba7b2852ef61d175dd9602e7723d5e5
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: Mask
-  - hash:
-      serializedVersion: 2
       Hash: 523ce309f50d9eee6a8fc0e2f86c9c97
     assemblyName: Unity.2D.SpriteShape.Runtime.dll
     namespaceName: 
@@ -1143,7 +1232,8 @@ ScriptsOnlyBuild:
     className: FabrikSolver2D
   platform: 2
   scenePathNames:
+  - Assets/Scenes/Ruby Challenge.unity
   - Assets/Cooler game.unity
   - Assets/Scenes/ExampleScene.unity
   - Assets/Scenes/SampleScene.unity
-  playerPath: /Users/game12/Documents/GitHub/new-project/Build/RubyBuild1.app
+  playerPath: /Users/game12/Documents/GitHub/new-project/Build/FinalRubyGame.app
